@@ -1,4 +1,4 @@
-# Tópicos Especiais - Deep Learning T1
+# Tópicos Especiais - Deep Learning
 
 Trabalhos da disciplina de Tópicos Especiais em Inteligência Artificial, com foco em Deep Learning.
 
